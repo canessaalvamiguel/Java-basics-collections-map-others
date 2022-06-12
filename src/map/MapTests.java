@@ -7,6 +7,7 @@ public class MapTests {
         /**
          * https://code-examples.net/es/q/2c1831
          * https://medium.com/javarevisited/internal-working-of-hashmap-in-java-97aeac3c7beb
+         * https://www.youtube.com/watch?v=-oafFAPgLao - Internal working of HashMap
          *
          * - HashMap no ofrece ninguna garantía sobre el orden de iteración.
          *   Puede (y lo hará) incluso cambiar completamente cuando se agreguen nuevos elementos.
