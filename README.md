@@ -16,6 +16,9 @@ Just some samples, definitions, advantages, disadvantages and when to use which 
 - List
 - ArrayList
 - LinkedList
-
-
+#
+- Equals and HashCode
+#
+- Comparable and Compartor
+#
 Useful links in the top of each class
