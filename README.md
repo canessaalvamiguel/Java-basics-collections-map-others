@@ -21,4 +21,10 @@ Just some samples, definitions, advantages, disadvantages and when to use which 
 #
 - Comparable and Compartor
 #
+- Exceptions
+- Checked Exceptions
+- Unchecked Exceptions
+- Custom Checked Exceptions
+- Custom Unchecked Exceptions
+#
 Useful links in the top of each class
