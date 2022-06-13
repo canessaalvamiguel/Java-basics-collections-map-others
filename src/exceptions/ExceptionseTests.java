@@ -32,16 +32,16 @@ public class ExceptionseTests {
     public static void main(String[] args) throws Exception/*only needed for Checked Exceptions*/ {
 
         //throw new Error();
-        //throw new Exception();
-        new RuntimeException();
+
+        throw new Exception(); // --> Checked Exceptions
+        //throw new RuntimeException(); //--> Unchecked Exceptions
 
         //Try with resource and AutoClosable
-        try( FileInputStream fs = new FileInputStream(new File("c:/data.txt"))){
-
-        }catch (IOException e) {
-            e.printStackTrace();
-        }
-
+//        try( FileInputStream fs = new FileInputStream(new File("c:/data.txt"))){
+//
+//        }catch (IOException e) {
+//            e.printStackTrace();
+//        }
     }
 }
 
