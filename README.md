@@ -27,4 +27,7 @@ Just some samples, definitions, advantages, disadvantages and when to use which 
 - Custom Checked Exceptions
 - Custom Unchecked Exceptions
 #
+- Passing parameters by value
+- Immutable classes
+#
 Useful links in the top of each class
