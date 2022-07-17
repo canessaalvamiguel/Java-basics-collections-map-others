@@ -30,4 +30,6 @@ Just some samples, definitions, advantages, disadvantages and when to use which 
 - Passing parameters by value
 - Immutable classes
 #
+- Optionals
+#
 Useful links in the top of each class
