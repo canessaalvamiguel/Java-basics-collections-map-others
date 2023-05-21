@@ -19,7 +19,7 @@ Just some samples, definitions, advantages, disadvantages and when to use which 
 #
 - Equals and HashCode
 #
-- Comparable and Compartor
+- Comparable and Comparator
 #
 - Exceptions
 - Checked Exceptions
@@ -32,4 +32,5 @@ Just some samples, definitions, advantages, disadvantages and when to use which 
 #
 - Optionals
 #
+- Thread synchronized example
 Useful links in the top of each class
